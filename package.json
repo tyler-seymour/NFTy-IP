@@ -1,0 +1,13 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@0xcert/cert": "^1.0.0-rc12",
+    "@0xcert/conventions": "^1.0.0-rc12",
+    "@0xcert/ethereum-asset-ledger": "^1.0.0-rc12",
+    "@0xcert/ethereum-metamask-provider": "^1.0.0-rc12",
+    "nes.css": "^2.2.0",
+    "node-fetch": "^2.3.0"
+  }
+}

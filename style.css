@@ -1,0 +1,60 @@
+img {
+  width: 150px;
+  max-height: 150px;
+}
+
+#main {
+  width: 70%;
+  margin: 0 auto;
+  min-width: 580px;
+  font-size: 20px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#header {
+  height: 50px;
+  width: 100%;
+  background-color: #1F2833;
+  padding: 10px;
+}
+
+#app {
+  width: 100%;
+  background-color: #C5C6C7;
+  padding: 10px;
+}
+
+#app::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#asset {
+  display: block;
+  float: left;
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+button {
+  background-color: #45A29E;
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 4px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
