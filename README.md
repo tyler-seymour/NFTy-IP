@@ -1,7 +1,7 @@
 ## NFTy-IP
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nftyip)
-[Deployed on StackBlitz ⚡️]([Edit on StackBlitz ⚡️](https://nftyip.stackblitz.io)
+[Deployed with StackBlitz ⚡️](https://nftyip.stackblitz.io)
 
 ## About
 
