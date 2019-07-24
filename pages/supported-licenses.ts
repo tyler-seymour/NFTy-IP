@@ -15,13 +15,13 @@ export module renderDisplaySupportedLicenses {
           <tbody>
             <tr>
               <td>MIT</td>
-              <td>Creative Commons Attribution</td>
+              <td>Creative Commons Attribution v4</td>
               <td>NFT License v2</td>
             </tr>
             <tr>
-              <td>Thou hast had a good morning</td>
-              <td>Thou hast had a good afternoon</td>
-              <td>Thou hast had a good afternon</td>
+              <td></td>
+              <td></td>
+              <td></td>
             </tr>
           </tbody>
         </table>
