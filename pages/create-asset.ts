@@ -31,7 +31,7 @@ export module renderCreateAsset {
     <div class="nes-select is-success">
       <select required id="createLicenseName">
         <option value="" disabled selected hidden>Select License</option>
-        <option value="0">MIT</option>
+        <option value="0">CC Attribution v4</option>
         <option value="1">NFT License v2</option>
       </select>
     </div>

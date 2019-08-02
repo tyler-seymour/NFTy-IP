@@ -14,14 +14,14 @@ export module renderDisplaySupportedLicenses {
           </thead>
           <tbody>
             <tr>
-              <td>MIT</td>
               <td>Creative Commons Attribution v4</td>
-              <td>NFT License v2</td>
+              <td>fg2nwg24vsg141s</td>
+              <td>0x55sdg1gsdfh2</td>
             </tr>
             <tr>
-              <td></td>
-              <td></td>
-              <td></td>
+              <td>MIT</td>
+              <td>sadg2rsh1bqdsh</td>
+              <td>0x1gwfgsxh52rw</td>
             </tr>
           </tbody>
         </table>

@@ -5,7 +5,7 @@ export module renderDeployAssetLedger {
     <br>
     <input id="deployName" type="text" placeholder="Name" /><br/>
     <input id="deploySymbol" type="text" placeholder="Symbol" /><br/>
-    <input id="deployUriBase" type="text" placeholder="Base URI of Metadata API)" /><br/><br/>
+    <input id="deployUriBase" type="text" placeholder="Base URI of Metadata API" /><br/><br/>
     <button class="nes-btn" onclick="deploySubmit()">Deploy</button>
   `;
   export async function submit(data: any) {
