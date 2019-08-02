@@ -6,7 +6,7 @@ import { licenseSchema } from './license-schema';
 // ********* Establish blockchain connection *********
 export module connection {
   export const provider = new MetamaskProvider();
-  export const ledgerId = '0xd8fe371a3f584a5f8f07b18d52a65fbcc36fae95';
+  export const ledgerId = '0x92c5360d9ee5722d0fd72c404eab5b76d87b3635';
   export async function enableMetamask() {
     if (!(await provider.isEnabled())) {
       await provider.enable();
